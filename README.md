@@ -26,6 +26,25 @@ review alerts, analytics, and model metrics.
   previews. Existing demo amounts are displayed as INR; no currency conversion
   is performed.
 
+## Demo
+
+[![Watch the project walkthrough](docs/media/03-payment-result.png)](docs/media/project-demo.webm)
+
+[Watch or download the 18-second walkthrough (WebM)](docs/media/project-demo.webm).
+It covers the payment flow, risk review, simulated accounts, alerts, and history.
+
+### Screenshots
+
+- [Project overview](docs/media/01-overview.png)
+- [Payment form](docs/media/02-payment-form.png)
+- [Payment result and explainable risk score](docs/media/03-payment-result.png)
+- [Accounts, balances, and notification previews](docs/media/04-accounts-notifications.png)
+- [Transaction history](docs/media/05-transactions.png)
+- [Dashboard and INR balances](docs/media/dashboard.png)
+
+The screenshots and video show a local simulation. Email and WhatsApp entries
+are previews only; no messages are sent, and no real funds are moved.
+
 ## Technology
 
 | Component | Technology |
