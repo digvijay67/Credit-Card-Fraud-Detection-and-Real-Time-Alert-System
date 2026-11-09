@@ -1,0 +1,14 @@
+.env
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+frontend/node_modules/
+frontend/dist/
+backend/models/*.joblib
+backend/models/metrics.json
+backend/data/
+tls/*.key
+tls/*.crt
+tls/*.pem
